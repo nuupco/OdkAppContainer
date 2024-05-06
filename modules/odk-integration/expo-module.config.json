@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "tvos", "android", "web"],
+  "ios": {
+    "modules": ["OdkIntegrationModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.odkintegration.OdkIntegrationModule"]
+  }
+}
